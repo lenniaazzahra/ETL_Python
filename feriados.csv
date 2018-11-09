@@ -1,0 +1,342 @@
+data;feriado
+01/1/1990;Ano-Novo
+13/4/1990;Sexta-feira Santa
+15/4/1990;Páscoa
+21/4/1990;Tiradentes
+01/5/1990;Dia do Trabalhador
+14/6/1990;Corpus Christi
+07/9/1990;Dia da Independência do Brasil - 7 de Setembro
+12/10/1990;Nossa Senhora Aparecida
+02/11/1990;Finados
+15/11/1990;Proclamação da República
+25/12/1990;Natal
+01/1/1991;Ano-Novo
+29/3/1991;Sexta-feira Santa
+31/3/1991;Páscoa
+21/4/1991;Tiradentes
+01/5/1991;Dia do Trabalhador
+30/5/1991;Corpus Christi
+07/9/1991;Dia da Independência do Brasil - 7 de Setembro
+12/10/1991;Nossa Senhora Aparecida
+02/11/1991;Finados
+15/11/1991;Proclamação da República
+25/12/1991;Natal
+01/1/1992;Ano-Novo
+17/4/1992;Sexta-feira Santa
+19/4/1992;Páscoa
+21/4/1992;Tiradentes
+01/5/1992;Dia do Trabalhador
+18/6/1992;Corpus Christi
+07/9/1992;Dia da Independência do Brasil - 7 de Setembro
+12/10/1992;Nossa Senhora Aparecida
+02/11/1992;Finados
+15/11/1992;Proclamação da República
+25/12/1992;Natal
+01/1/1993;Ano-Novo
+09/4/1993;Sexta-feira Santa
+11/4/1993;Páscoa
+21/4/1993;Tiradentes
+01/5/1993;Dia do Trabalhador
+10/6/1993;Corpus Christi
+07/9/1993;Dia da Independência do Brasil - 7 de Setembro
+12/10/1993;Nossa Senhora Aparecida
+02/11/1993;Finados
+15/11/1993;Proclamação da República
+25/12/1993;Natal
+01/1/1994;Ano-Novo
+01/4/1994;Sexta-feira Santa
+03/4/1994;Páscoa
+21/4/1994;Tiradentes
+01/5/1994;Dia do Trabalhador
+02/6/1994;Corpus Christi
+07/9/1994;Dia da Independência do Brasil - 7 de Setembro
+12/10/1994;Nossa Senhora Aparecida
+02/11/1994;Finados
+15/11/1994;Proclamação da República
+25/12/1994;Natal
+01/1/1995;Ano-Novo
+14/4/1995;Sexta-feira Santa
+16/4/1995;Páscoa
+21/4/1995;Tiradentes
+01/5/1995;Dia do Trabalhador
+15/6/1995;Corpus Christi
+07/9/1995;Dia da Independência do Brasil - 7 de Setembro
+12/10/1995;Nossa Senhora Aparecida
+02/11/1995;Finados
+15/11/1995;Proclamação da República
+25/12/1995;Natal
+01/1/1996;Ano-Novo
+05/4/1996;Sexta-feira Santa
+07/4/1996;Páscoa
+21/4/1996;Tiradentes
+01/5/1996;Dia do Trabalhador
+06/6/1996;Corpus Christi
+07/9/1996;Dia da Independência do Brasil - 7 de Setembro
+12/10/1996;Nossa Senhora Aparecida
+02/11/1996;Finados
+15/11/1996;Proclamação da República
+25/12/1996;Natal
+01/1/1997;Ano-Novo
+28/3/1997;Sexta-feira Santa
+30/3/1997;Páscoa
+21/4/1997;Tiradentes
+01/5/1997;Dia do Trabalhador
+29/5/1997;Corpus Christi
+07/9/1997;Dia da Independência do Brasil - 7 de Setembro
+12/10/1997;Nossa Senhora Aparecida
+02/11/1997;Finados
+15/11/1997;Proclamação da República
+25/12/1997;Natal
+01/1/1998;Ano-Novo
+10/4/1998;Sexta-feira Santa
+12/4/1998;Páscoa
+21/4/1998;Tiradentes
+01/5/1998;Dia do Trabalhador
+11/6/1998;Corpus Christi
+07/9/1998;Dia da Independência do Brasil - 7 de Setembro
+12/10/1998;Nossa Senhora Aparecida
+02/11/1998;Finados
+15/11/1998;Proclamação da República
+25/12/1998;Natal
+01/1/1999;Ano-Novo
+02/4/1999;Sexta-feira Santa
+04/4/1999;Páscoa
+21/4/1999;Tiradentes
+01/5/1999;Dia do Trabalhador
+03/6/1999;Corpus Christi
+07/9/1999;Dia da Independência do Brasil - 7 de Setembro
+12/10/1999;Nossa Senhora Aparecida
+02/11/1999;Finados
+15/11/1999;Proclamação da República
+25/12/1999;Natal
+01/1/2000;Ano-Novo
+21/4/2000;Sexta-feira Santa
+21/4/2000;Tiradentes
+23/4/2000;Páscoa
+01/5/2000;Dia do Trabalhador
+22/6/2000;Corpus Christi
+07/9/2000;Dia da Independência do Brasil - 7 de Setembro
+12/10/2000;Nossa Senhora Aparecida
+02/11/2000;Finados
+15/11/2000;Proclamação da República
+25/12/2000;Natal
+01/1/2001;Ano-Novo
+13/4/2001;Sexta-feira Santa
+15/4/2001;Páscoa
+21/4/2001;Tiradentes
+01/5/2001;Dia do Trabalhador
+14/6/2001;Corpus Christi
+07/9/2001;Dia da Independência do Brasil - 7 de Setembro
+12/10/2001;Nossa Senhora Aparecida
+02/11/2001;Finados
+15/11/2001;Proclamação da República
+25/12/2001;Natal
+01/1/2002;Ano-Novo
+29/3/2002;Sexta-feira Santa
+31/3/2002;Páscoa
+21/4/2002;Tiradentes
+01/5/2002;Dia do Trabalhador
+30/5/2002;Corpus Christi
+07/9/2002;Dia da Independência do Brasil - 7 de Setembro
+12/10/2002;Nossa Senhora Aparecida
+02/11/2002;Finados
+15/11/2002;Proclamação da República
+25/12/2002;Natal
+01/1/2003;Ano-Novo
+18/4/2003;Sexta-feira Santa
+20/4/2003;Páscoa
+21/4/2003;Tiradentes
+01/5/2003;Dia do Trabalhador
+19/6/2003;Corpus Christi
+07/9/2003;Dia da Independência do Brasil - 7 de Setembro
+12/10/2003;Nossa Senhora Aparecida
+02/11/2003;Finados
+15/11/2003;Proclamação da República
+25/12/2003;Natal
+01/1/2004;Ano-Novo
+09/4/2004;Sexta-feira Santa
+11/4/2004;Páscoa
+21/4/2004;Tiradentes
+01/5/2004;Dia do Trabalhador
+10/6/2004;Corpus Christi
+07/9/2004;Dia da Independência do Brasil - 7 de Setembro
+12/10/2004;Nossa Senhora Aparecida
+02/11/2004;Finados
+15/11/2004;Proclamação da República
+25/12/2004;Natal
+01/1/2005;Ano-Novo
+25/3/2005;Sexta-feira Santa
+27/3/2005;Páscoa
+21/4/2005;Tiradentes
+01/5/2005;Dia do Trabalhador
+26/5/2005;Corpus Christi
+07/9/2005;Dia da Independência do Brasil - 7 de Setembro
+12/10/2005;Nossa Senhora Aparecida
+02/11/2005;Finados
+15/11/2005;Proclamação da República
+25/12/2005;Natal
+01/1/2006;Ano-Novo
+14/4/2006;Sexta-feira Santa
+16/4/2006;Páscoa
+21/4/2006;Tiradentes
+01/5/2006;Dia do Trabalhador
+15/6/2006;Corpus Christi
+07/9/2006;Dia da Independência do Brasil - 7 de Setembro
+12/10/2006;Nossa Senhora Aparecida
+02/11/2006;Finados
+15/11/2006;Proclamação da República
+25/12/2006;Natal
+01/1/2007;Ano-Novo
+06/4/2007;Sexta-feira Santa
+08/4/2007;Páscoa
+21/4/2007;Tiradentes
+01/5/2007;Dia do Trabalhador
+07/6/2007;Corpus Christi
+07/9/2007;Dia da Independência do Brasil - 7 de Setembro
+12/10/2007;Nossa Senhora Aparecida
+02/11/2007;Finados
+15/11/2007;Proclamação da República
+25/12/2007;Natal
+01/1/2008;Ano-Novo
+21/3/2008;Sexta-feira Santa
+23/3/2008;Páscoa
+21/4/2008;Tiradentes
+01/5/2008;Dia do Trabalhador
+22/5/2008;Corpus Christi
+07/9/2008;Dia da Independência do Brasil - 7 de Setembro
+12/10/2008;Nossa Senhora Aparecida
+02/11/2008;Finados
+15/11/2008;Proclamação da República
+25/12/2008;Natal
+01/1/2009;Ano-Novo
+10/4/2009;Sexta-feira Santa
+12/4/2009;Páscoa
+21/4/2009;Tiradentes
+01/5/2009;Dia do Trabalhador
+11/6/2009;Corpus Christi
+07/9/2009;Dia da Independência do Brasil - 7 de Setembro
+12/10/2009;Nossa Senhora Aparecida
+02/11/2009;Finados
+15/11/2009;Proclamação da República
+25/12/2009;Natal
+01/1/2010;Ano-Novo
+02/4/2010;Sexta-feira Santa
+04/4/2010;Páscoa
+21/4/2010;Tiradentes
+01/5/2010;Dia do Trabalhador
+03/6/2010;Corpus Christi
+07/9/2010;Dia da Independência do Brasil - 7 de Setembro
+12/10/2010;Nossa Senhora Aparecida
+02/11/2010;Finados
+15/11/2010;Proclamação da República
+25/12/2010;Natal
+01/1/2011;Ano-Novo
+21/4/2011;Tiradentes
+22/4/2011;Sexta-feira Santa
+24/4/2011;Páscoa
+01/5/2011;Dia do Trabalhador
+23/6/2011;Corpus Christi
+07/9/2011;Dia da Independência do Brasil - 7 de Setembro
+12/10/2011;Nossa Senhora Aparecida
+02/11/2011;Finados
+15/11/2011;Proclamação da República
+25/12/2011;Natal
+01/1/2012;Ano-Novo
+06/4/2012;Sexta-feira Santa
+08/4/2012;Páscoa
+21/4/2012;Tiradentes
+01/5/2012;Dia do Trabalhador
+07/6/2012;Corpus Christi
+07/9/2012;Dia da Independência do Brasil - 7 de Setembro
+12/10/2012;Nossa Senhora Aparecida
+02/11/2012;Finados
+15/11/2012;Proclamação da República
+25/12/2012;Natal
+01/1/2013;Ano-Novo
+29/3/2013;Sexta-feira Santa
+31/3/2013;Páscoa
+21/4/2013;Tiradentes
+01/5/2013;Dia do Trabalhador
+30/5/2013;Corpus Christi
+07/9/2013;Dia da Independência do Brasil - 7 de Setembro
+12/10/2013;Nossa Senhora Aparecida
+02/11/2013;Finados
+15/11/2013;Proclamação da República
+25/12/2013;Natal
+01/1/2014;Ano-Novo
+18/4/2014;Sexta-feira Santa
+20/4/2014;Páscoa
+21/4/2014;Tiradentes
+01/5/2014;Dia do Trabalhador
+19/6/2014;Corpus Christi
+07/9/2014;Dia da Independência do Brasil - 7 de Setembro
+12/10/2014;Nossa Senhora Aparecida
+02/11/2014;Finados
+15/11/2014;Proclamação da República
+25/12/2014;Natal
+01/1/2015;Ano-Novo
+03/4/2015;Sexta-feira Santa
+05/4/2015;Páscoa
+21/4/2015;Tiradentes
+01/5/2015;Dia do Trabalhador
+04/6/2015;Corpus Christi
+07/9/2015;Dia da Independência do Brasil - 7 de Setembro
+12/10/2015;Nossa Senhora Aparecida
+02/11/2015;Finados
+15/11/2015;Proclamação da República
+25/12/2015;Natal
+01/1/2016;Ano-Novo
+25/3/2016;Sexta-feira Santa
+27/3/2016;Páscoa
+21/4/2016;Tiradentes
+01/5/2016;Dia do Trabalhador
+26/5/2016;Corpus Christi
+07/9/2016;Dia da Independência do Brasil - 7 de Setembro
+12/10/2016;Nossa Senhora Aparecida
+02/11/2016;Finados
+15/11/2016;Proclamação da República
+25/12/2016;Natal
+01/1/2017;Ano-Novo
+14/4/2017;Sexta-feira Santa
+16/4/2017;Páscoa
+21/4/2017;Tiradentes
+01/5/2017;Dia do Trabalhador
+15/6/2017;Corpus Christi
+07/9/2017;Dia da Independência do Brasil - 7 de Setembro
+12/10/2017;Nossa Senhora Aparecida
+02/11/2017;Finados
+15/11/2017;Proclamação da República
+25/12/2017;Natal
+01/1/2018;Ano-Novo
+30/3/2018;Sexta-feira Santa
+01/4/2018;Páscoa
+21/4/2018;Tiradentes
+01/5/2018;Dia do Trabalhador
+31/5/2018;Corpus Christi
+07/9/2018;Dia da Independência do Brasil - 7 de Setembro
+12/10/2018;Nossa Senhora Aparecida
+02/11/2018;Finados
+15/11/2018;Proclamação da República
+25/12/2018;Natal
+01/1/2019;Ano-Novo
+19/4/2019;Sexta-feira Santa
+21/4/2019;Tiradentes
+21/4/2019;Páscoa
+01/5/2019;Dia do Trabalhador
+20/6/2019;Corpus Christi
+07/9/2019;Dia da Independência do Brasil - 7 de Setembro
+12/10/2019;Nossa Senhora Aparecida
+02/11/2019;Finados
+15/11/2019;Proclamação da República
+25/12/2019;Natal
+01/1/2020;Ano-Novo
+10/4/2020;Sexta-feira Santa
+12/4/2020;Páscoa
+21/4/2020;Tiradentes
+01/5/2020;Dia do Trabalhador
+11/6/2020;Corpus Christi
+07/9/2020;Dia da Independência do Brasil - 7 de Setembro
+12/10/2020;Nossa Senhora Aparecida
+02/11/2020;Finados
+15/11/2020;Proclamação da República
+25/12/2020;Natal
